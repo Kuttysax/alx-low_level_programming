@@ -1,5 +1,5 @@
 /**
- * print sign - prints the sign of a number
+ * description: - prints the sign of a number
  * @n: the int to check
  * Return: 1 and prints + if n is greater than zero
  * 0 and prints 0 if n is zero
